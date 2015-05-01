@@ -1,2 +1,4 @@
 # Haskell-Practice
-Beginning haskell exercises
+Beginning Haskell exercises
+
+This is my repo for learning basic Haskell programming.
