@@ -1,0 +1,14 @@
+\documentclass[letterpaper,12pt]{article}
+\author{Daniel Barnhurst}
+\title{Let's give this a try}
+\begin{document}
+\maketitle
+\tableofcontents
+\section{Short but sweet}
+I don't know what to type so
+I am just typing random stuff.\newline
+Did it work?\newline
+\ldots{}
+\newline
+Hooray!
+\end{document}

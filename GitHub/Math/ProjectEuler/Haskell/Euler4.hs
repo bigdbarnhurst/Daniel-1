@@ -1,0 +1,1 @@
+palindromeProduct = maximum [x | y <- [999,998..100], z <- [999,998..100], let x = y * z, let pal = show x, pal == reverse pal ]
