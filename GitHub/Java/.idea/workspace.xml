@@ -1,0 +1,1039 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c493ce33-6e50-41c6-909a-b69dd39bb895" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IntroPrinceton/1.2/BaryCenter.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IntroPrinceton/1.2/EuclidDist.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IntroPrinceton/1.2/Ordered.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IntroPrinceton/1.2/SpringSeason.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IntroPrinceton/1.2/Swap.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IntroPrinceton/1.2/TriangleArea.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IntroPrinceton/1.3/Binary.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IntroPrinceton/1.3/Equal.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IntroPrinceton/1.3/Factor.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IntroPrinceton/1.3/FivePerLine.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IntroPrinceton/1.3/Harmonic.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IntroPrinceton/1.3/NewtonRoot.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IntroPrinceton/1.3/PowersOfTwo.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IntroPrinceton/1.3/Quadratic.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IntroPrinceton/1.3/RandomN.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IntroPrinceton/1.3/TenHellos.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IntroPrinceton/1.2/BaryCenter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IntroPrinceton/1.2/EuclidDist.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IntroPrinceton/1.2/Ordered.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IntroPrinceton/1.2/SpringSeason.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IntroPrinceton/1.2/Swap.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IntroPrinceton/1.2/TriangleArea.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IntroPrinceton/1.3/Binary.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IntroPrinceton/1.3/Equal.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IntroPrinceton/1.3/Factor.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IntroPrinceton/1.3/FivePerLine.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IntroPrinceton/1.3/Harmonic.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IntroPrinceton/1.3/NewtonRoot.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IntroPrinceton/1.3/PowersOfTwo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IntroPrinceton/1.3/Quadratic.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IntroPrinceton/1.3/RandomN.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IntroPrinceton/1.3/Scratch.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IntroPrinceton/1.3/TenHellos.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/example/helloworld/HelloWorld.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Python/Intro/chaos.py" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Competition/CodeChef/ATM.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Competition/CodeChef/ATM.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Competition/CodeChef/DoubleStrings.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Competition/CodeChef/DoubleStrings.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Competition/CodeChef/EnormousInput.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Competition/CodeChef/EnormousInput.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Competition/CodeChef/EnormousInput.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Competition/CodeChef/FactorialZ.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Competition/CodeChef/FactorialZ.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Competition/CodeChef/Holes.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Competition/CodeChef/Main.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Competition/CodeChef/Main.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Competition/CodeChef/Remissness.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Competition/CodeChef/SmallFactorials.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Competition/CodeChef/SmallFactorials.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Competition/CodeChef/SnapeLadder.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Competition/CodeChef/SnapeLadder.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Competition/CodeChef/WinProb.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Competition/CodeChef/WinProb.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Competition/CodeChef/WinProb.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Competition/CodeChef/YANG.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Competition/CodeChef/YANG.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Competition/CodeChef/chef1.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Competition/CodeChef/ciel_receipt.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Competition/CodeChef/test.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Competition/CodeChef/test.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Competition/CodeForces/theatreSquare.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Competition/CodeForces/theatreSquare.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Competition/CodeForces/watermelon.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Competition/CodeForces/watermelon.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Competition/CodeForces/watermelon.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Competition/Coderbyte/FirstFactorial.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Competition/Coderbyte/FirstFactorial.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Competition/Coderbyte/Function.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Competition/Coderbyte/Function.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Competition/Coderbyte/Main.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Competition/Coderbyte/checkNums.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Competition/Coderbyte/checkNums.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Competition/Coderbyte/powerof2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Competition/Coderbyte/powerof2.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Competition/CodingBat/HelloName.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Competition/CodingBat/HelloName.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Competition/HackerRank/HalloweenParty.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Competition/HackerRank/HalloweenParty.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Competition/HackerRank/IsFibo.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Competition/HackerRank/IsFibo.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Competition/HackerRank/UtopianTree.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Competition/HackerRank/UtopianTree.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Competition/HackerRank/geany_run_script.sh" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Competition/Spoj/spoj1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Competition/Spoj/spoj1.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../exercism/clojure/bob/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../exercism/clojure/bob/bob_test.clj" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../exercism/clojure/bob/project.clj" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../exercism/coffeescript/bob/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../exercism/coffeescript/bob/bob_test.spec.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../exercism/cpp/bob/CMakeLists.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../exercism/cpp/bob/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../exercism/cpp/bob/bob_test.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../exercism/csharp/leap/LeapTest.cs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../exercism/csharp/leap/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../exercism/elixir/bob/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../exercism/elixir/bob/bob.exs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../exercism/elixir/bob/bob_test.exs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../exercism/erlang/leap/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../exercism/erlang/leap/leap_tests.erl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../exercism/fsharp/sum-of-multiples/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../exercism/fsharp/sum-of-multiples/SumOfMultiplesTest.fs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../exercism/go/leap/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../exercism/go/leap/cases_test.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../exercism/go/leap/leap_test.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../exercism/haskell/leap/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../exercism/haskell/leap/leap_test.hs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../exercism/java/etl/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../exercism/java/etl/build.gradle" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../exercism/java/etl/src/main/java/Etl.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../exercism/java/etl/src/test/java/EtlTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../exercism/javascript/bob/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../exercism/javascript/bob/bob.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../exercism/javascript/bob/bob_test.spec.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../exercism/lisp/point-mutations/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../exercism/lisp/point-mutations/dna.lisp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../exercism/lisp/point-mutations/point-mutations-test.lisp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../exercism/lua/hamming/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../exercism/lua/hamming/hamming_test.lua" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../exercism/objective-c/bob/BobTest.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../exercism/objective-c/bob/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../exercism/ocaml/bob/Makefile" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../exercism/ocaml/bob/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../exercism/ocaml/bob/bob.mli" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../exercism/ocaml/bob/test.ml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../exercism/perl5/bob/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../exercism/perl5/bob/bob.pm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../exercism/perl5/bob/bob.t" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../exercism/php/hamming/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../exercism/php/hamming/hamming.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../exercism/php/hamming/hamming_test.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../exercism/plsql/hamming/GETTING_STARTED.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../exercism/plsql/hamming/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../exercism/plsql/hamming/hamming#.plsql" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../exercism/plsql/hamming/ut_hamming#.plsql" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../exercism/python/bob/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../exercism/python/bob/bob.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../exercism/python/bob/bob_test.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../exercism/ruby/hamming/GETTING_STARTED.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../exercism/ruby/hamming/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../exercism/ruby/hamming/hamming_test.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../exercism/scala/bob/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../exercism/scala/bob/build.sbt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../exercism/scala/bob/src/test/scala/bob_test.scala" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../exercism/scheme/point-mutations/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../exercism/scheme/point-mutations/point-mutations-test.scm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../exercism/scheme/point-mutations/point-mutations.scm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../exercism/swift/leap/LeapTest.swift" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../exercism/swift/leap/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Haskell-Practice/.directory" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Haskell-Practice/99quest.hs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Haskell-Practice/Euler20.hs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Haskell-Practice/FixLines" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Haskell-Practice/FixLines.hi" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Haskell-Practice/FixLines.hs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Haskell-Practice/FixLines.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Haskell-Practice/InteractWith" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Haskell-Practice/InteractWith.hi" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Haskell-Practice/InteractWith.hs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Haskell-Practice/InteractWith.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Haskell-Practice/Pattern.hs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Haskell-Practice/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Haskell-Practice/Types.hs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Haskell-Practice/add.hs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Haskell-Practice/baby.hs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Haskell-Practice/bookStore.hs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Haskell-Practice/functional.hs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Haskell-Practice/geany_run_script.sh" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Haskell-Practice/hello-in.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Haskell-Practice/hello-out.text" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Haskell-Practice/hello.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Haskell-Practice/higherOrder.hs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Haskell-Practice/lastButOne.hs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Haskell-Practice/myDrop.hs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Haskell-Practice/recursion.hs" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Competition/CodeChef/ATM.class" afterPath="$PROJECT_DIR$/../Competition/CodeChef/ATM.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Competition/CodeChef/DoubleStrings.class" afterPath="$PROJECT_DIR$/../Competition/CodeChef/DoubleStrings.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Competition/CodeChef/EnormousInput.class" afterPath="$PROJECT_DIR$/../Competition/CodeChef/EnormousInput.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Competition/CodeChef/FactorialZ.class" afterPath="$PROJECT_DIR$/../Competition/CodeChef/FactorialZ.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Competition/CodeChef/Main.class" afterPath="$PROJECT_DIR$/../Competition/CodeChef/Main.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Competition/CodeChef/SmallFactorials.class" afterPath="$PROJECT_DIR$/../Competition/CodeChef/SmallFactorials.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Competition/CodeChef/SnapeLadder.class" afterPath="$PROJECT_DIR$/../Competition/CodeChef/SnapeLadder.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Competition/CodeChef/WinProb.class" afterPath="$PROJECT_DIR$/../Competition/CodeChef/WinProb.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Competition/CodeChef/WinProb.py" afterPath="$PROJECT_DIR$/../Competition/CodeChef/WinProb.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Competition/CodeChef/YANG.class" afterPath="$PROJECT_DIR$/../Competition/CodeChef/YANG.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Competition/CodeChef/test.class" afterPath="$PROJECT_DIR$/../Competition/CodeChef/test.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Competition/CodeEval/Haskell/Odd.hi" afterPath="$PROJECT_DIR$/../Competition/CodeEval/Haskell/Odd.hi" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Competition/CodeEval/Haskell/Odd.o" afterPath="$PROJECT_DIR$/../Competition/CodeEval/Haskell/Odd.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Competition/CodeEval/Haskell/PrimePalindrome.hi" afterPath="$PROJECT_DIR$/../Competition/CodeEval/Haskell/PrimePalindrome.hi" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Competition/CodeEval/Haskell/PrimePalindrome.o" afterPath="$PROJECT_DIR$/../Competition/CodeEval/Haskell/PrimePalindrome.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Competition/CodeEval/Haskell/SumPrimes.hi" afterPath="$PROJECT_DIR$/../Competition/CodeEval/Haskell/SumPrimes.hi" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Competition/CodeEval/Haskell/SumPrimes.o" afterPath="$PROJECT_DIR$/../Competition/CodeEval/Haskell/SumPrimes.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Competition/CodeForces/theatreSquare.class" afterPath="$PROJECT_DIR$/../Competition/CodeForces/theatreSquare.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Competition/CodeForces/watermelon.class" afterPath="$PROJECT_DIR$/../Competition/CodeForces/watermelon.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Competition/Coderbyte/FirstFactorial.class" afterPath="$PROJECT_DIR$/../Competition/Coderbyte/FirstFactorial.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Competition/Coderbyte/Function.class" afterPath="$PROJECT_DIR$/../Competition/Coderbyte/Function.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Competition/Coderbyte/Main.class" afterPath="$PROJECT_DIR$/../Competition/Coderbyte/Main.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Competition/Coderbyte/checkNums.class" afterPath="$PROJECT_DIR$/../Competition/Coderbyte/checkNums.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Competition/Coderbyte/powerof2.class" afterPath="$PROJECT_DIR$/../Competition/Coderbyte/powerof2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Competition/CodingBat/HelloName.class" afterPath="$PROJECT_DIR$/../Competition/CodingBat/HelloName.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Competition/HackerRank/Java/HalloweenParty.class" afterPath="$PROJECT_DIR$/../Competition/HackerRank/Java/HalloweenParty.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Competition/HackerRank/Java/IsFibo.class" afterPath="$PROJECT_DIR$/../Competition/HackerRank/Java/IsFibo.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Competition/HackerRank/Java/UtopianTree.class" afterPath="$PROJECT_DIR$/../Competition/HackerRank/Java/UtopianTree.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Competition/Spoj/spoj1.class" afterPath="$PROJECT_DIR$/../Competition/Spoj/spoj1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Latex/ShortButSweet.dvi" afterPath="$PROJECT_DIR$/../Latex/ShortButSweet.dvi" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Latex/hello.dvi" afterPath="$PROJECT_DIR$/../Latex/hello.dvi" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Latex/test1.dvi" afterPath="$PROJECT_DIR$/../Latex/test1.dvi" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Math/Brilliant/Brilliant1.class" afterPath="$PROJECT_DIR$/../Math/Brilliant/Brilliant1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Math/Brilliant/Brilliant2.class" afterPath="$PROJECT_DIR$/../Math/Brilliant/Brilliant2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Math/Brilliant/Brilliant3.class" afterPath="$PROJECT_DIR$/../Math/Brilliant/Brilliant3.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Math/Brilliant/Fibonacci3.class" afterPath="$PROJECT_DIR$/../Math/Brilliant/Fibonacci3.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Math/Brilliant/FibonacciLog10.class" afterPath="$PROJECT_DIR$/../Math/Brilliant/FibonacciLog10.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Math/Brilliant/FibonacciPrime.class" afterPath="$PROJECT_DIR$/../Math/Brilliant/FibonacciPrime.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Math/Brilliant/FibonacciSquare.class" afterPath="$PROJECT_DIR$/../Math/Brilliant/FibonacciSquare.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Math/Brilliant/PrimeSum.class" afterPath="$PROJECT_DIR$/../Math/Brilliant/PrimeSum.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Math/ProjectEuler/Haskell/Compiled/P1.hi" afterPath="$PROJECT_DIR$/../Math/ProjectEuler/Haskell/Compiled/P1.hi" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Math/ProjectEuler/Haskell/Compiled/P1.o" afterPath="$PROJECT_DIR$/../Math/ProjectEuler/Haskell/Compiled/P1.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Math/ProjectEuler/Haskell/Compiled/P2.hi" afterPath="$PROJECT_DIR$/../Math/ProjectEuler/Haskell/Compiled/P2.hi" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Math/ProjectEuler/Haskell/Compiled/P2.o" afterPath="$PROJECT_DIR$/../Math/ProjectEuler/Haskell/Compiled/P2.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Math/ProjectEuler/Haskell/Compiled/P3.hi" afterPath="$PROJECT_DIR$/../Math/ProjectEuler/Haskell/Compiled/P3.hi" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Math/ProjectEuler/Haskell/Compiled/P3.o" afterPath="$PROJECT_DIR$/../Math/ProjectEuler/Haskell/Compiled/P3.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Math/ProjectEuler/Haskell/Compiled/P4.hi" afterPath="$PROJECT_DIR$/../Math/ProjectEuler/Haskell/Compiled/P4.hi" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Math/ProjectEuler/Haskell/Compiled/P4.o" afterPath="$PROJECT_DIR$/../Math/ProjectEuler/Haskell/Compiled/P4.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Math/ProjectEuler/Haskell/Compiled/P5.hi" afterPath="$PROJECT_DIR$/../Math/ProjectEuler/Haskell/Compiled/P5.hi" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Math/ProjectEuler/Haskell/Compiled/P5.o" afterPath="$PROJECT_DIR$/../Math/ProjectEuler/Haskell/Compiled/P5.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Math/ProjectEuler/Haskell/Compiled/P6.hi" afterPath="$PROJECT_DIR$/../Math/ProjectEuler/Haskell/Compiled/P6.hi" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Math/ProjectEuler/Haskell/Compiled/P6.o" afterPath="$PROJECT_DIR$/../Math/ProjectEuler/Haskell/Compiled/P6.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Math/ProjectEuler/Haskell/Compiled/P7.hi" afterPath="$PROJECT_DIR$/../Math/ProjectEuler/Haskell/Compiled/P7.hi" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Math/ProjectEuler/Haskell/Compiled/P7.o" afterPath="$PROJECT_DIR$/../Math/ProjectEuler/Haskell/Compiled/P7.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Math/ProjectEuler/Java/Euler1.class" afterPath="$PROJECT_DIR$/../Math/ProjectEuler/Java/Euler1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Math/ProjectEuler/Java/Euler10.class" afterPath="$PROJECT_DIR$/../Math/ProjectEuler/Java/Euler10.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Math/ProjectEuler/Java/Euler12.class" afterPath="$PROJECT_DIR$/../Math/ProjectEuler/Java/Euler12.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Math/ProjectEuler/Java/Euler14.class" afterPath="$PROJECT_DIR$/../Math/ProjectEuler/Java/Euler14.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Math/ProjectEuler/Java/Euler2.class" afterPath="$PROJECT_DIR$/../Math/ProjectEuler/Java/Euler2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Math/ProjectEuler/Java/Euler25.class" afterPath="$PROJECT_DIR$/../Math/ProjectEuler/Java/Euler25.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Math/ProjectEuler/Java/Euler25time.class" afterPath="$PROJECT_DIR$/../Math/ProjectEuler/Java/Euler25time.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Math/ProjectEuler/Java/Euler3.class" afterPath="$PROJECT_DIR$/../Math/ProjectEuler/Java/Euler3.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Math/ProjectEuler/Java/Euler4.class" afterPath="$PROJECT_DIR$/../Math/ProjectEuler/Java/Euler4.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Math/ProjectEuler/Java/Euler6.class" afterPath="$PROJECT_DIR$/../Math/ProjectEuler/Java/Euler6.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Math/ProjectEuler/Java/Euler7.class" afterPath="$PROJECT_DIR$/../Math/ProjectEuler/Java/Euler7.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Math/ProjectEuler/Python/Euler3.py" afterPath="$PROJECT_DIR$/../Math/ProjectEuler/Python/Euler3.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Math/ProjectEuler/Times.odt" afterPath="$PROJECT_DIR$/../Math/ProjectEuler/Times.odt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Tools/Java/EuclidGCD.class" afterPath="$PROJECT_DIR$/../Tools/Java/EuclidGCD.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Tools/Java/FibGenerator.class" afterPath="$PROJECT_DIR$/../Tools/Java/FibGenerator.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Tools/Java/PrimeSieve1.class" afterPath="$PROJECT_DIR$/../Tools/Java/PrimeSieve1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Competition/.directory" afterPath="$PROJECT_DIR$/../Competition/.directory" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Competition/CodeChef/ATM.java" afterPath="$PROJECT_DIR$/../Competition/CodeChef/ATM.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Competition/CodeChef/DoubleStrings.java" afterPath="$PROJECT_DIR$/../Competition/CodeChef/DoubleStrings.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Competition/CodeChef/EnormousInput.java" afterPath="$PROJECT_DIR$/../Competition/CodeChef/EnormousInput.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Competition/CodeChef/EnormousInput.py" afterPath="$PROJECT_DIR$/../Competition/CodeChef/EnormousInput.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Competition/CodeChef/FactorialZ.java" afterPath="$PROJECT_DIR$/../Competition/CodeChef/FactorialZ.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Competition/CodeChef/Holes.py" afterPath="$PROJECT_DIR$/../Competition/CodeChef/Holes.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Competition/CodeChef/Main.java" afterPath="$PROJECT_DIR$/../Competition/CodeChef/Main.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Competition/CodeChef/Prob.py" afterPath="$PROJECT_DIR$/../Competition/CodeChef/Prob.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Competition/CodeChef/Remissness.py" afterPath="$PROJECT_DIR$/../Competition/CodeChef/Remissness.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Competition/CodeChef/SmallFactorials.java" afterPath="$PROJECT_DIR$/../Competition/CodeChef/SmallFactorials.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Competition/CodeChef/Snape.py" afterPath="$PROJECT_DIR$/../Competition/CodeChef/Snape.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Competition/CodeChef/SnapeLadder.java" afterPath="$PROJECT_DIR$/../Competition/CodeChef/SnapeLadder.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Competition/CodeChef/WinProb.java" afterPath="$PROJECT_DIR$/../Competition/CodeChef/WinProb.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Competition/CodeChef/YANG.java" afterPath="$PROJECT_DIR$/../Competition/CodeChef/YANG.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Competition/CodeChef/chef1.java" afterPath="$PROJECT_DIR$/../Competition/CodeChef/chef1.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Competition/CodeChef/ciel_receipt.py" afterPath="$PROJECT_DIR$/../Competition/CodeChef/ciel_receipt.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Competition/CodeChef/test.java" afterPath="$PROJECT_DIR$/../Competition/CodeChef/test.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Competition/CodeEval/Haskell/Odd.hs" afterPath="$PROJECT_DIR$/../Competition/CodeEval/Haskell/Odd.hs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Competition/CodeEval/Haskell/PrimePalindrome.hs" afterPath="$PROJECT_DIR$/../Competition/CodeEval/Haskell/PrimePalindrome.hs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Competition/CodeEval/Haskell/SumPrimes.hs" afterPath="$PROJECT_DIR$/../Competition/CodeEval/Haskell/SumPrimes.hs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Competition/CodeForces/theatreSquare.java" afterPath="$PROJECT_DIR$/../Competition/CodeForces/theatreSquare.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Competition/CodeForces/watermelon.java" afterPath="$PROJECT_DIR$/../Competition/CodeForces/watermelon.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Competition/CodeForces/watermelon.py" afterPath="$PROJECT_DIR$/../Competition/CodeForces/watermelon.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Competition/Coderbyte/FirstFactorial.java" afterPath="$PROJECT_DIR$/../Competition/Coderbyte/FirstFactorial.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Competition/Coderbyte/Function.java" afterPath="$PROJECT_DIR$/../Competition/Coderbyte/Function.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Competition/Coderbyte/checkNums.java" afterPath="$PROJECT_DIR$/../Competition/Coderbyte/checkNums.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Competition/Coderbyte/powerof2.java" afterPath="$PROJECT_DIR$/../Competition/Coderbyte/powerof2.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Competition/CodingBat/HelloName.java" afterPath="$PROJECT_DIR$/../Competition/CodingBat/HelloName.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Competition/HackerRank/Haskell/HelloWorlds.hs" afterPath="$PROJECT_DIR$/../Competition/HackerRank/Haskell/HelloWorlds.hs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Competition/HackerRank/Java/HalloweenParty.java" afterPath="$PROJECT_DIR$/../Competition/HackerRank/Java/HalloweenParty.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Competition/HackerRank/Java/IsFibo.java" afterPath="$PROJECT_DIR$/../Competition/HackerRank/Java/IsFibo.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Competition/HackerRank/Java/UtopianTree.java" afterPath="$PROJECT_DIR$/../Competition/HackerRank/Java/UtopianTree.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Competition/HackerRank/Python/Utopian.py" afterPath="$PROJECT_DIR$/../Competition/HackerRank/Python/Utopian.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Competition/Spoj/Life42.py" afterPath="$PROJECT_DIR$/../Competition/Spoj/Life42.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Competition/Spoj/PrimeGen.py" afterPath="$PROJECT_DIR$/../Competition/Spoj/PrimeGen.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Competition/Spoj/spoj1.java" afterPath="$PROJECT_DIR$/../Competition/Spoj/spoj1.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/#BigNum.java#" afterPath="$PROJECT_DIR$/#BigNum.java#" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Time.java" afterPath="$PROJECT_DIR$/Time.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/untitled.java" afterPath="$PROJECT_DIR$/untitled.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Latex/#ShortButSweet.tex#" afterPath="$PROJECT_DIR$/../Latex/#ShortButSweet.tex#" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Latex/ShortButSweet.aux" afterPath="$PROJECT_DIR$/../Latex/ShortButSweet.aux" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Latex/ShortButSweet.log" afterPath="$PROJECT_DIR$/../Latex/ShortButSweet.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Latex/ShortButSweet.tex" afterPath="$PROJECT_DIR$/../Latex/ShortButSweet.tex" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Latex/ShortButSweet.toc" afterPath="$PROJECT_DIR$/../Latex/ShortButSweet.toc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Latex/hello.aux" afterPath="$PROJECT_DIR$/../Latex/hello.aux" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Latex/hello.log" afterPath="$PROJECT_DIR$/../Latex/hello.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Latex/hello.tex" afterPath="$PROJECT_DIR$/../Latex/hello.tex" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Latex/newfile1.lyx" afterPath="$PROJECT_DIR$/../Latex/newfile1.lyx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Latex/test1.aux" afterPath="$PROJECT_DIR$/../Latex/test1.aux" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Latex/test1.log" afterPath="$PROJECT_DIR$/../Latex/test1.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Latex/test1.tex" afterPath="$PROJECT_DIR$/../Latex/test1.tex" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Math/Brilliant/Brilliant1.java" afterPath="$PROJECT_DIR$/../Math/Brilliant/Brilliant1.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Math/Brilliant/Brilliant2.java" afterPath="$PROJECT_DIR$/../Math/Brilliant/Brilliant2.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Math/Brilliant/Brilliant3.java" afterPath="$PROJECT_DIR$/../Math/Brilliant/Brilliant3.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Math/Brilliant/DecodePython.py" afterPath="$PROJECT_DIR$/../Math/Brilliant/DecodePython.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Math/Brilliant/DivSubstring.py" afterPath="$PROJECT_DIR$/../Math/Brilliant/DivSubstring.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Math/Brilliant/Fibonacci3.java" afterPath="$PROJECT_DIR$/../Math/Brilliant/Fibonacci3.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Math/Brilliant/FibonacciLog10.java" afterPath="$PROJECT_DIR$/../Math/Brilliant/FibonacciLog10.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Math/Brilliant/FibonacciPrime.java" afterPath="$PROJECT_DIR$/../Math/Brilliant/FibonacciPrime.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Math/Brilliant/FibonacciSquare.java" afterPath="$PROJECT_DIR$/../Math/Brilliant/FibonacciSquare.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Math/Brilliant/PrimeSum.java" afterPath="$PROJECT_DIR$/../Math/Brilliant/PrimeSum.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Math/ProjectEuler/Haskell/Compiled/P1.hs" afterPath="$PROJECT_DIR$/../Math/ProjectEuler/Haskell/Compiled/P1.hs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Math/ProjectEuler/Haskell/Compiled/P2.hs" afterPath="$PROJECT_DIR$/../Math/ProjectEuler/Haskell/Compiled/P2.hs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Math/ProjectEuler/Haskell/Compiled/P3.hs" afterPath="$PROJECT_DIR$/../Math/ProjectEuler/Haskell/Compiled/P3.hs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Math/ProjectEuler/Haskell/Compiled/P4.hs" afterPath="$PROJECT_DIR$/../Math/ProjectEuler/Haskell/Compiled/P4.hs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Math/ProjectEuler/Haskell/Compiled/P5.hs" afterPath="$PROJECT_DIR$/../Math/ProjectEuler/Haskell/Compiled/P5.hs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Math/ProjectEuler/Haskell/Compiled/P6.hs" afterPath="$PROJECT_DIR$/../Math/ProjectEuler/Haskell/Compiled/P6.hs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Math/ProjectEuler/Haskell/Compiled/P7.hs" afterPath="$PROJECT_DIR$/../Math/ProjectEuler/Haskell/Compiled/P7.hs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Math/ProjectEuler/Haskell/Euler1.hs" afterPath="$PROJECT_DIR$/../Math/ProjectEuler/Haskell/Euler1.hs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Math/ProjectEuler/Haskell/Euler2.hs" afterPath="$PROJECT_DIR$/../Math/ProjectEuler/Haskell/Euler2.hs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Math/ProjectEuler/Haskell/Euler20.hs" afterPath="$PROJECT_DIR$/../Math/ProjectEuler/Haskell/Euler20.hs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Math/ProjectEuler/Haskell/Euler3.hs" afterPath="$PROJECT_DIR$/../Math/ProjectEuler/Haskell/Euler3.hs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Math/ProjectEuler/Haskell/Euler4.hs" afterPath="$PROJECT_DIR$/../Math/ProjectEuler/Haskell/Euler4.hs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Math/ProjectEuler/Haskell/Euler48.hs" afterPath="$PROJECT_DIR$/../Math/ProjectEuler/Haskell/Euler48.hs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Math/ProjectEuler/Haskell/Euler5.hs" afterPath="$PROJECT_DIR$/../Math/ProjectEuler/Haskell/Euler5.hs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Math/ProjectEuler/Haskell/Euler6.hs" afterPath="$PROJECT_DIR$/../Math/ProjectEuler/Haskell/Euler6.hs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Math/ProjectEuler/Haskell/Euler7.hs" afterPath="$PROJECT_DIR$/../Math/ProjectEuler/Haskell/Euler7.hs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Math/ProjectEuler/Haskell/Euler8.hs" afterPath="$PROJECT_DIR$/../Math/ProjectEuler/Haskell/Euler8.hs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Math/ProjectEuler/Haskell/Euler9.hs" afterPath="$PROJECT_DIR$/../Math/ProjectEuler/Haskell/Euler9.hs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Math/ProjectEuler/Java/Euler1.java" afterPath="$PROJECT_DIR$/../Math/ProjectEuler/Java/Euler1.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Math/ProjectEuler/Java/Euler10.java" afterPath="$PROJECT_DIR$/../Math/ProjectEuler/Java/Euler10.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Math/ProjectEuler/Java/Euler12.java" afterPath="$PROJECT_DIR$/../Math/ProjectEuler/Java/Euler12.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Math/ProjectEuler/Java/Euler14.java" afterPath="$PROJECT_DIR$/../Math/ProjectEuler/Java/Euler14.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Math/ProjectEuler/Java/Euler2.java" afterPath="$PROJECT_DIR$/../Math/ProjectEuler/Java/Euler2.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Math/ProjectEuler/Java/Euler25.java" afterPath="$PROJECT_DIR$/../Math/ProjectEuler/Java/Euler25.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Math/ProjectEuler/Java/Euler25time.java" afterPath="$PROJECT_DIR$/../Math/ProjectEuler/Java/Euler25time.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Math/ProjectEuler/Java/Euler3.java" afterPath="$PROJECT_DIR$/../Math/ProjectEuler/Java/Euler3.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Math/ProjectEuler/Java/Euler4.java" afterPath="$PROJECT_DIR$/../Math/ProjectEuler/Java/Euler4.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Math/ProjectEuler/Java/Euler6.java" afterPath="$PROJECT_DIR$/../Math/ProjectEuler/Java/Euler6.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Math/ProjectEuler/Java/Euler7.java" afterPath="$PROJECT_DIR$/../Math/ProjectEuler/Java/Euler7.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Math/ProjectEuler/Python/Euler1.py" afterPath="$PROJECT_DIR$/../Math/ProjectEuler/Python/Euler1.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Math/ProjectEuler/Python/Euler2.py" afterPath="$PROJECT_DIR$/../Math/ProjectEuler/Python/Euler2.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Math/ProjectEuler/Python/Euler25.py" afterPath="$PROJECT_DIR$/../Math/ProjectEuler/Python/Euler25.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Math/ProjectEuler/Python/Euler7.py" afterPath="$PROJECT_DIR$/../Math/ProjectEuler/Python/Euler7.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Python/Challenge/.txAlphaSort,pyt" afterPath="$PROJECT_DIR$/../Python/Challenge/.txAlphaSort,pyt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Python/Challenge/AlphaSort.py" afterPath="$PROJECT_DIR$/../Python/Challenge/AlphaSort.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Python/Challenge/CaesarsCipher.py" afterPath="$PROJECT_DIR$/../Python/Challenge/CaesarsCipher.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Python/Challenge/List2.txt" afterPath="$PROJECT_DIR$/../Python/Challenge/List2.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Python/Control.py" afterPath="$PROJECT_DIR$/../Python/Control.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Python/Diveintopython/Trial.py" afterPath="$PROJECT_DIR$/../Python/Diveintopython/Trial.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Python/Diveintopython/geany_run_script.sh" afterPath="$PROJECT_DIR$/../Python/Diveintopython/geany_run_script.sh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Python/Fib.py" afterPath="$PROJECT_DIR$/../Python/Fib.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Python/Fruity.py" afterPath="$PROJECT_DIR$/../Python/Fruity.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Python/Hello.py" afterPath="$PROJECT_DIR$/../Python/Hello.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Python/Think10.py" afterPath="$PROJECT_DIR$/../Python/Think10.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Python/Think11.py" afterPath="$PROJECT_DIR$/../Python/Think11.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Python/Think12.py" afterPath="$PROJECT_DIR$/../Python/Think12.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Python/Think13.py" afterPath="$PROJECT_DIR$/../Python/Think13.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Python/Think5.py" afterPath="$PROJECT_DIR$/../Python/Think5.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Python/Think7.py" afterPath="$PROJECT_DIR$/../Python/Think7.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Python/Think8.py" afterPath="$PROJECT_DIR$/../Python/Think8.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Python/ThinkFunc.py" afterPath="$PROJECT_DIR$/../Python/ThinkFunc.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Python/beowulf.txt" afterPath="$PROJECT_DIR$/../Python/beowulf.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Python/emma.txt" afterPath="$PROJECT_DIR$/../Python/emma.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Python/func1.py" afterPath="$PROJECT_DIR$/../Python/func1.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Python/geany_run_script.sh" afterPath="$PROJECT_DIR$/../Python/geany_run_script.sh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Tools/Does this work.txt" afterPath="$PROJECT_DIR$/../Tools/Does this work.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Tools/Haskell/Combinatorics.hs" afterPath="$PROJECT_DIR$/../Tools/Haskell/Combinatorics.hs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Tools/Haskell/Factorial.hs" afterPath="$PROJECT_DIR$/../Tools/Haskell/Factorial.hs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Tools/Haskell/FasterFibs.hs" afterPath="$PROJECT_DIR$/../Tools/Haskell/FasterFibs.hs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Tools/Haskell/PrimeFactors.hs" afterPath="$PROJECT_DIR$/../Tools/Haskell/PrimeFactors.hs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Tools/Haskell/PrimeSieve1.hs" afterPath="$PROJECT_DIR$/../Tools/Haskell/PrimeSieve1.hs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Tools/Haskell/PrimeSieve2.hs" afterPath="$PROJECT_DIR$/../Tools/Haskell/PrimeSieve2.hs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Tools/Haskell/SlowFactors.hs" afterPath="$PROJECT_DIR$/../Tools/Haskell/SlowFactors.hs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Tools/Java/EuclidGCD.java" afterPath="$PROJECT_DIR$/../Tools/Java/EuclidGCD.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Tools/Java/FibGenerator.java" afterPath="$PROJECT_DIR$/../Tools/Java/FibGenerator.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Tools/Java/PrimeSieve1.java" afterPath="$PROJECT_DIR$/../Tools/Java/PrimeSieve1.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Tools/Python/CaesarsCipher.py" afterPath="$PROJECT_DIR$/../Tools/Python/CaesarsCipher.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Tools/Python/PermuTester.py" afterPath="$PROJECT_DIR$/../Tools/Python/PermuTester.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Tools/Python/PrimeSieve1.py" afterPath="$PROJECT_DIR$/../Tools/Python/PrimeSieve1.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Tools/Python/SubstringSearch.py" afterPath="$PROJECT_DIR$/../Tools/Python/SubstringSearch.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../README.md" afterPath="$PROJECT_DIR$/../../README.md" />
+    </list>
+    <ignored path="HelloWorld.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="HelloWorld" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="HelloWorld.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/HelloWorld.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="126">
+              <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HelloWorld.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/example/helloworld/HelloWorld.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="36">
+              <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Comparison.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Comparison.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="414">
+              <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FirstVariables.class" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/FirstVariables.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="450">
+              <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/HelloWorld.kt" />
+        <option value="$PROJECT_DIR$/HelloWorld.java" />
+        <option value="$PROJECT_DIR$/src/com/example/helloworld/HelloWorld.java" />
+        <option value="$PROJECT_DIR$/FirstVariables.class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-1" />
+    <option name="y" value="-1" />
+    <option name="width" value="1922" />
+    <option name="height" value="1057" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HelloWorld" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope">
+        <subPane subId="Problems" />
+      </pane>
+      <pane id="PackagesPane">
+        <subPane />
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="RunManager" selected="Application.HelloWorld">
+    <configuration default="false" name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.example.helloworld.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.example.helloworld.HelloWorld" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Java" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnitTestDiscovery" factoryName="JUnit Test Discovery" changeList="All">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SCRATCH_FILE_ID" value="0" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Java" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNGTestDiscovery" factoryName="TestNG Test Discovery" changeList="All">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Application.HelloWorld" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Application.HelloWorld" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c493ce33-6e50-41c6-909a-b69dd39bb895" name="Default" comment="" />
+      <created>1463547848429</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1463547848429</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-1" y="-1" width="1922" height="1057" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980973" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17864583" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39957717" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980973" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.39957717" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/HelloWorld.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/example/helloworld/HelloWorld.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Comparison.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FirstVariables.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HelloWorld.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/example/helloworld/HelloWorld.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Comparison.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HelloWorld.kt" />
+    <entry file="file://$PROJECT_DIR$/ArithmeticDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/java/jdk1.8.0_92/src.zip!/java/math/BigInteger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="1204" column="24" selection-start-line="1204" selection-start-column="24" selection-end-line="1204" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HelloWorld.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/example/helloworld/HelloWorld.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Comparison.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FirstVariables.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Java</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
